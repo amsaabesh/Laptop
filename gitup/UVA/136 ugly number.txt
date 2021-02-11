@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <math.h>
+long long ugly(long long n)
+{//function 1
+    while(n%2==0)
+        n/=2;
+    while(n%3==0)
+        n/=3;
+    while(n%5==0)
+        n/=5;
+    if(n==1)
+        return n;
+}//function 1
+int main()
+{//1
+    long long j=1,i,x;
+    j=1;
+    for(i=2;;i++)
+    {//2
+        x=ugly(i);
+        if(x==1)
+            j++;
+        if(j==1500)
+            break;
+    }//2
+    //printf("%lld\n",i);
+    printf("The 1500'th ugly number is %lld.\n",i);
+    return 0;
+}//1

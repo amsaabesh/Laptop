@@ -1,0 +1,23 @@
+id: 1
+Adult
+Name :aabesh. Age :20 years. Gender: male. Height: 1.62 m. Weight: 68 kg, Sleep time: 8 hour.
+BMR :1677
+You should do little exercise or no exercise.
+BMI :25.91
+Your BMI is considered as overweight.You need to decrease your weight at least 10 kg.
+You have a healthy sleep.
+id: 2
+Adult
+Name :tihan. Age :20 years. Gender: male. Height: 1.63 m. Weight: 65 kg, Sleep time: 7 hour.
+BMR :1641
+You should do little exercise or no exercise.
+BMI :24.46
+Your BMI is considered as Normal.
+You need to sleep more 1 hours daily.
+id: 3
+Adult
+Name :anne. Age :20 years. Gender: female. Height: 1.62 m. Weight: 55 kg, Sleep time: 9 hour.
+BMR :1387
+You should do little exercise or no exercise.
+BMI :20.98
+Your BMI is considered as Normal.

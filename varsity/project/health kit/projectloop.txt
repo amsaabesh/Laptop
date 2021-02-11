@@ -1,0 +1,88 @@
+ID :1
+Adult
+Name :AHMED MAHIR SHOAIB. Age :20 years. Gender: male. Height: 1.63 m. Weight: 70 kg, Sleep time: 7 hour.
+BMR :1707
+You should do little exercise or no exercise.
+BMI :26.49
+Your BMI is considered as overweight.You need to decrease your weight at least 9 kg.
+You need to sleep more 1 hours daily.
+ID :2
+Adult
+Name :AHMED MAHIR TAZWAR. Age :25 years. Gender: male. Height: 1.66 m. Weight: 66 kg, Sleep time: 7 hour.
+BMR :1636
+You should do little exercise or no exercise.
+BMI :23.95
+Your BMI is considered as Normal.
+You need to sleep more 1 hours daily.
+ID :3
+Adult
+Name :JESMIN ARA AHMED. Age :51 years. Gender: female. Height: 1.55 m. Weight: 58 kg, Sleep time: 6 hour.
+BMR :1258
+You should do little exercise or no exercise.
+BMI :24.16
+Your BMI is considered as Normal.
+You need to sleep more 2 hours daily.
+ID :4
+Adult
+Name :SHUMONA SHARMEEN. Age :28 years. Gender: female. Height: 1.63 m. Weight: 52 kg, Sleep time: 9 hour.
+BMR :1323
+You should do little exercise or no exercise.
+BMI :19.57
+Your BMI is considered as Normal.
+You should sleep less than 1 hours to stay healthy.
+ID :5
+Child
+Name :AHMED MAHIR TAHSIN. Age :11 years. Gender: male. Height: 1.47 m. Weight: 35 kg, Sleep time: 10 hour.
+BMR :1210
+You should do little exercise or no exercise.
+BMI :16.13
+Your BMI is considered as underweight.You need to increase your weight at least 5 kg.
+You have a healthy sleep.
+ID :6
+Child
+Name :AHMED MAHIR TAHSIF. Age :11 years. Gender: male. Height: 1.56 m. Weight: 38 kg, Sleep time: 11 hour.
+BMR :1295
+You should do little exercise or no exercise.
+BMI :15.61
+Your BMI is considered as underweight.You need to increase your weight at least 7 kg.
+You should sleep less than 1 hours to stay healthy.
+ID :7
+Child
+Name :SHEHEBA RAIDA HAQUE. Age :12 years. Gender: female. Height: 1.52 m. Weight: 42 kg, Sleep time: 8 hour.
+BMR :1283
+You should do little exercise or no exercise.
+BMI :18.08
+Your BMI is considered as underweight.You need to increase your weight at least 0 kg.
+You need to sleep more 2 hours daily.
+ID :8
+Child
+Name :AHMED REHNUMA. Age :16 years. Gender: female. Height: 1.61 m. Weight: 51 kg, Sleep time: 8 hour.
+BMR :1366
+You should do little exercise or no exercise.
+BMI :19.68
+Your BMI is considered as Normal.
+You need to sleep more 1 hours daily.
+ID :9
+Adult
+Name :TAWHID UTSHO. Age :22 years. Gender: male. Height: 1.78 m. Weight: 60 kg, Sleep time: 7 hour.
+BMR :1632
+You should do little exercise or no exercise.
+BMI :18.98
+Your BMI is considered as Normal.
+You need to sleep more 1 hours daily.
+ID :10
+Adult
+Name :ARITRO. Age :57 years. Gender: male. Height: 1.45 m. Weight: 32 kg, Sleep time: 10 hour.
+BMR :846
+You should do little exercise or no exercise.
+BMI :15.27
+Your BMI is considered as underweight.You need to increase your weight at least 6 kg.
+You should sleep less than 2 hours to stay healthy.
+ID :11
+Child
+Name :TAHSIN. Age :12 years. Gender: male. Height: 1.45 m. Weight: 42 kg, Sleep time: 10 hour.
+BMR :1287
+You should do little exercise or no exercise.
+BMI :20.04
+Your BMI is considered as Normal.
+You have a healthy sleep.

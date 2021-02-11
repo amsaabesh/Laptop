@@ -1,0 +1,14 @@
+ID :1
+Adult
+Name :shoaib. Age :23 years. Gender: male. Height: 1.62 m. Weight: 72 kg, Sleep time: 8 hour.
+BMR :1712
+You should do little exercise or no exercise.
+BMI :27.43
+Your BMI is considered as overweight.You need to decrease your weight at least 6 kg.
+You have a healthy sleep.
+ID :2
+Adult
+Name :Ahmed Mahir Shoaib. Age :20 years. Gender: Male. Height: 1.63 m. Weight: 72 kg, Sleep time: 8 hour.
+BMI :27.10
+Your BMI is considered as overweight.You need to decrease your weight at least 7 kg.
+You have a healthy sleep.

@@ -1,0 +1,102 @@
+__________________________________________________________________________________________________
+
+
+TOTAL CALCULATION:
+		total invest   : 2029384755
+		total income   : 22734921 
+		total cost     : 226401727 
+		total profit   : the business is in the LOSSinformation for member no: 1
+
+    name      : shoaib aabesh    position  : president    investment: 987654321
+    share     : 48.67 percent
+    profit    : -99119888.00
+
+information for member no: 2
+
+    name      : emon    position  : member    investment: 123456789
+    share     : 6.08 percent
+    profit    : -12389986.00
+
+information for member no: 3
+
+    name      : mahmudul    position  : secretary    investment: 918273645
+    share     : 45.25 percent
+    profit    : -92156920.00
+
+
+
+__________________________________________________________________________________________________
+
+
+TOTAL CALCULATION:
+		total invest   : 93253
+		total income   : 55 
+		total cost     : 45 
+		total profit   : 10information for member no: 1
+
+    name      : men    position  : member    investment: 2345
+    share     : 2.51 percent
+    profit    : 0.25
+
+information for member no: 2
+
+    name      : nme    position  : president    investment: 90908
+    share     : 97.49 percent
+    profit    : 9.75
+
+
+
+shohid__________________________________________________________________________________________________
+
+
+TOTAL CALCULATION:
+		total invest   : 6
+		total income   : 5 
+		total cost     : 0 
+		total profit   : 5
+information for member no: 1
+
+    name      : mahirr    position  : secretary    investment: 6
+    share     : 100.00 percent
+    profit    : 5.00
+
+
+
+kopa__________________________________________________________________________________________________
+
+
+TOTAL CALCULATION:
+		total invest   : 100
+		total income   : 55 
+		total cost     : 35 
+		total profit   : 20
+information for member no: 1
+
+    name      : mahir    position  : member    investment: 100
+    share     : 100.00 percent
+    profit    : 20.00
+
+
+
+df__________________________________________________________________________________________________
+
+
+TOTAL CALCULATION:
+		total invest   : 20
+		total income   : 2 
+		total cost     : 7 
+		total profit   : the business is in the LOSS
+information for member no: 1
+
+    name      : n    position  : member    investment: 4
+    share     : 20.00 percent
+    profit    : -1.00
+
+information for member no: 2
+
+    name      : menu    position  : president    investment: 16
+    share     : 80.00 percent
+    profit    : -4.00
+
+
+
